@@ -1,0 +1,10 @@
+[
+ {"id":"M001","title":"Orbit Zero","genre":["sci-fi","thriller"],"language":"English","duration_min":128,"age_rating":"12+","rating":8.1,"synopsis":"A crew on a failing space station must decide who returns to Earth."},
+ {"id":"M002","title":"The Last Caravan","genre":["adventure","drama"],"language":"Azerbaijani","duration_min":115,"age_rating":"12+","rating":7.6,"synopsis":"A merchant family crosses the Silk Road during one eventful winter."},
+ {"id":"M003","title":"Laugh Track","genre":["comedy"],"language":"Russian","duration_min":97,"age_rating":"6+","rating":6.9,"synopsis":"Two rival stand-up comedians are forced to share a tour bus."},
+ {"id":"M004","title":"Midnight Archive","genre":["horror","mystery"],"language":"English","duration_min":104,"age_rating":"18+","rating":7.2,"synopsis":"A night guard discovers that the city archive records events before they happen."},
+ {"id":"M005","title":"Paper Kites","genre":["animation","family"],"language":"Russian","duration_min":89,"age_rating":"0+","rating":7.8,"synopsis":"Children build kites that carry messages across a divided town."},
+ {"id":"M006","title":"Iron Ledger","genre":["action","crime"],"language":"English","duration_min":122,"age_rating":"16+","rating":7.0,"synopsis":"An accountant uncovers a smuggling network and must run."},
+ {"id":"M007","title":"Spring in Baku","genre":["romance","comedy"],"language":"Azerbaijani","duration_min":108,"age_rating":"12+","rating":7.4,"synopsis":"Two architects restoring an old building slowly fall for each other."},
+ {"id":"M008","title":"Deep Signal","genre":["sci-fi","mystery"],"language":"English","duration_min":136,"age_rating":"12+","rating":8.4,"synopsis":"A radio astronomer decodes a message that is addressed to her by name."}
+]

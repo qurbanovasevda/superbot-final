@@ -1,0 +1,18 @@
+[
+ {"id":"S001","movie_id":"M001","cinema_id":"C001","date":"2026-11-02","time":"19:30","hall":"Hall 1","price_azn":12.00,"seats_total":120,"seats_available":34},
+ {"id":"S002","movie_id":"M003","cinema_id":"C001","date":"2026-11-02","time":"21:00","hall":"Hall 2","price_azn":9.00,"seats_total":80,"seats_available":52},
+ {"id":"S003","movie_id":"M008","cinema_id":"C002","date":"2026-11-02","time":"20:15","hall":"Hall 3","price_azn":13.00,"seats_total":150,"seats_available":0},
+ {"id":"S004","movie_id":"M005","cinema_id":"C002","date":"2026-11-03","time":"16:00","hall":"Hall 1","price_azn":7.00,"seats_total":100,"seats_available":71},
+ {"id":"S005","movie_id":"M006","cinema_id":"C003","date":"2026-11-03","time":"21:30","hall":"Hall 1","price_azn":8.00,"seats_total":90,"seats_available":60},
+ {"id":"S006","movie_id":"M002","cinema_id":"C001","date":"2026-11-04","time":"18:45","hall":"Hall 2","price_azn":9.00,"seats_total":80,"seats_available":45},
+ {"id":"S007","movie_id":"M004","cinema_id":"C002","date":"2026-11-04","time":"22:00","hall":"Hall 3","price_azn":11.00,"seats_total":150,"seats_available":98},
+ {"id":"S008","movie_id":"M001","cinema_id":"C002","date":"2026-11-05","time":"19:00","hall":"Hall 3","price_azn":13.00,"seats_total":150,"seats_available":110},
+ {"id":"S009","movie_id":"M007","cinema_id":"C003","date":"2026-11-05","time":"20:00","hall":"Hall 1","price_azn":7.50,"seats_total":90,"seats_available":38},
+ {"id":"S010","movie_id":"M008","cinema_id":"C001","date":"2026-11-06","time":"20:30","hall":"Hall 1","price_azn":13.00,"seats_total":120,"seats_available":12},
+ {"id":"S011","movie_id":"M008","cinema_id":"C001","date":"2026-11-07","time":"15:00","hall":"Hall 1","price_azn":11.00,"seats_total":120,"seats_available":67},
+ {"id":"S012","movie_id":"M001","cinema_id":"C001","date":"2026-11-07","time":"19:30","hall":"Hall 1","price_azn":14.00,"seats_total":120,"seats_available":5},
+ {"id":"S013","movie_id":"M005","cinema_id":"C003","date":"2026-11-07","time":"12:00","hall":"Hall 2","price_azn":6.00,"seats_total":70,"seats_available":44},
+ {"id":"S014","movie_id":"M006","cinema_id":"C002","date":"2026-11-07","time":"21:45","hall":"Hall 2","price_azn":12.00,"seats_total":100,"seats_available":57},
+ {"id":"S015","movie_id":"M003","cinema_id":"C002","date":"2026-11-08","time":"17:30","hall":"Hall 1","price_azn":8.00,"seats_total":100,"seats_available":83},
+ {"id":"S016","movie_id":"M007","cinema_id":"C001","date":"2026-11-08","time":"19:00","hall":"Hall 2","price_azn":9.50,"seats_total":80,"seats_available":29}
+]

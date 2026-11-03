@@ -1,0 +1,14 @@
+[
+ {"id":"P001","name":{"en":"Wireless Headphones","az":"Simsiz qulaqlıq","ru":"Беспроводные наушники"},"category":"audio","brand":"Sonivo","price_azn":89.90,"rating":4.4,"stock":23,"color":"black","description":"Over-ear Bluetooth headphones, 30h battery"},
+ {"id":"P002","name":{"en":"Wireless Earbuds","az":"Simsiz qulaqcıq","ru":"Беспроводные вкладыши"},"category":"audio","brand":"Sonivo","price_azn":59.00,"rating":4.1,"stock":0,"color":"white","description":"In-ear earbuds with charging case"},
+ {"id":"P003","name":{"en":"Laptop 15\" Pro","az":"Noutbuk 15\" Pro","ru":"Ноутбук 15\" Pro"},"category":"computers","brand":"Nexar","price_azn":1899.00,"rating":4.6,"stock":7,"color":"silver","description":"16 GB RAM, 512 GB SSD, 15.6 inch display"},
+ {"id":"P004","name":{"en":"Laptop 14\" Air","az":"Noutbuk 14\" Air","ru":"Ноутбук 14\" Air"},"category":"computers","brand":"Nexar","price_azn":1249.00,"rating":4.3,"stock":12,"color":"grey","description":"8 GB RAM, 256 GB SSD, lightweight 1.2 kg"},
+ {"id":"P005","name":{"en":"Smartphone X5","az":"Smartfon X5","ru":"Смартфон X5"},"category":"phones","brand":"Veltra","price_azn":999.00,"rating":4.5,"stock":18,"color":"black","description":"6.5 inch OLED, 128 GB, dual camera"},
+ {"id":"P006","name":{"en":"Smartphone X5 Lite","az":"Smartfon X5 Lite","ru":"Смартфон X5 Lite"},"category":"phones","brand":"Veltra","price_azn":549.00,"rating":4.0,"stock":31,"color":"blue","description":"6.1 inch LCD, 64 GB"},
+ {"id":"P007","name":{"en":"Smartwatch S2","az":"Ağıllı saat S2","ru":"Умные часы S2"},"category":"wearables","brand":"Veltra","price_azn":199.00,"rating":4.2,"stock":15,"color":"black","description":"Heart rate, GPS, 7-day battery"},
+ {"id":"P008","name":{"en":"Portable Speaker","az":"Portativ dinamik","ru":"Портативная колонка"},"category":"audio","brand":"Sonivo","price_azn":74.50,"rating":4.3,"stock":40,"color":"black","description":"Waterproof, 12h playtime"},
+ {"id":"P009","name":{"en":"Running Shoes","az":"Qaçış ayaqqabısı","ru":"Беговые кроссовки"},"category":"sport","brand":"Stridex","price_azn":129.00,"rating":4.4,"stock":26,"color":"black","description":"Lightweight road running shoes, sizes 38-46"},
+ {"id":"P010","name":{"en":"Backpack 25L","az":"Çanta 25L","ru":"Рюкзак 25 л"},"category":"accessories","brand":"Stridex","price_azn":65.00,"rating":4.5,"stock":19,"color":"black","description":"Water-resistant, laptop compartment up to 15 inch"},
+ {"id":"P011","name":{"en":"Coffee Machine","az":"Qəhvə maşını","ru":"Кофемашина"},"category":"home","brand":"Brewa","price_azn":349.00,"rating":4.2,"stock":5,"color":"silver","description":"Automatic espresso, built-in grinder"},
+ {"id":"P012","name":{"en":"Board Game Set","az":"Stolüstü oyun dəsti","ru":"Настольная игра"},"category":"gifts","brand":"Playo","price_azn":39.00,"rating":4.7,"stock":34,"color":"multicolor","description":"Family strategy game for 2-5 players"}
+]

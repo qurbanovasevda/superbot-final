@@ -1,0 +1,222 @@
+{
+  "created_at": "2026-11-02T20:35:59.409218+00:00",
+  "chat_mode": "llm",
+  "reference_date": "2026-11-02",
+  "scope": "Development smoke checks; manual semantic review still required.",
+  "turns": [
+    {
+      "scenario": 1,
+      "prompt": "Flights from Baku to Istanbul on Friday",
+      "expected_categories": [
+        "Flights"
+      ],
+      "actual_category": "Flights",
+      "seconds": 1.86,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "F013",
+        "F002",
+        "F001"
+      ]
+    },
+    {
+      "scenario": 1,
+      "prompt": "What is playing tonight?",
+      "expected_categories": [
+        "Cinema"
+      ],
+      "actual_category": "Cinema",
+      "seconds": 1.81,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "S001",
+        "S003",
+        "S002"
+      ]
+    },
+    {
+      "scenario": 1,
+      "prompt": "Headphones under 100 AZN",
+      "expected_categories": [
+        "Shopping"
+      ],
+      "actual_category": "Shopping",
+      "seconds": 1.6,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "P002",
+        "P008",
+        "P001"
+      ]
+    },
+    {
+      "scenario": 2,
+      "prompt": "What is playing tonight?",
+      "expected_categories": [
+        "Cinema"
+      ],
+      "actual_category": "Cinema",
+      "seconds": 1.71,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "S001",
+        "S003",
+        "S002"
+      ]
+    },
+    {
+      "scenario": 2,
+      "prompt": "Show me laptops.",
+      "expected_categories": [
+        "Shopping"
+      ],
+      "actual_category": "Shopping",
+      "seconds": 1.5,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "P004",
+        "P003"
+      ]
+    },
+    {
+      "scenario": 2,
+      "prompt": "Okay, and the sci-fi one, any seats on Saturday?",
+      "expected_categories": [
+        "Follow-up",
+        "Ambiguous",
+        "Cinema"
+      ],
+      "actual_category": "Cinema",
+      "seconds": 2.0,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "S011"
+      ]
+    },
+    {
+      "scenario": 3,
+      "prompt": "Show me laptops.",
+      "expected_categories": [
+        "Shopping"
+      ],
+      "actual_category": "Shopping",
+      "seconds": 1.98,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "P004",
+        "P003"
+      ]
+    },
+    {
+      "scenario": 3,
+      "prompt": "The second one, is it in stock?",
+      "expected_categories": [
+        "Follow-up"
+      ],
+      "actual_category": "Follow-up",
+      "seconds": 1.59,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "P004",
+        "P003"
+      ]
+    },
+    {
+      "scenario": 4,
+      "prompt": "Flights to Istanbul on 6 November.",
+      "expected_categories": [
+        "Flights"
+      ],
+      "actual_category": "Flights",
+      "seconds": 2.0,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "F013",
+        "F002",
+        "F001"
+      ]
+    },
+    {
+      "scenario": 4,
+      "prompt": "The cheaper one, is it direct?",
+      "expected_categories": [
+        "Follow-up"
+      ],
+      "actual_category": "Follow-up",
+      "seconds": 1.42,
+      "passed": true,
+      "issues": [],
+      "record_ids": []
+    },
+    {
+      "scenario": 5,
+      "prompt": "I need a flight to Istanbul on 6 November and a backpack for the trip.",
+      "expected_categories": [
+        "Mixed"
+      ],
+      "actual_category": "Mixed",
+      "seconds": 1.87,
+      "passed": true,
+      "issues": [],
+      "record_ids": [
+        "F013",
+        "F002",
+        "F001",
+        "P010"
+      ]
+    },
+    {
+      "scenario": 6,
+      "prompt": "Show me something good.",
+      "expected_categories": [
+        "Ambiguous"
+      ],
+      "actual_category": "Ambiguous",
+      "seconds": 1.48,
+      "passed": true,
+      "issues": [],
+      "record_ids": []
+    },
+    {
+      "scenario": 7,
+      "prompt": "What is the weather in Ganja?",
+      "expected_categories": [
+        "Out of scope"
+      ],
+      "actual_category": "Out of scope",
+      "seconds": 1.71,
+      "passed": true,
+      "issues": [],
+      "record_ids": []
+    },
+    {
+      "scenario": 8,
+      "prompt": "Book two seats.",
+      "expected_categories": [
+        "Ambiguous"
+      ],
+      "actual_category": "Ambiguous",
+      "seconds": 1.41,
+      "passed": true,
+      "issues": [],
+      "record_ids": []
+    }
+  ],
+  "summary": {
+    "planned_turns": 14,
+    "completed_turns": 14,
+    "passed_turns": 14,
+    "stopped_early": false,
+    "median_seconds": 1.71,
+    "max_seconds": 2.0
+  }
+}
